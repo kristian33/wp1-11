@@ -28,7 +28,7 @@
     else {
       echo "jedeš víc jak 100km/h";
       }
-  }
+   }
   ?>
 
   <form class="" action="index.php" method="post">
@@ -42,4 +42,4 @@
   </form>
 </body>
 
-</html>
+</html> 
